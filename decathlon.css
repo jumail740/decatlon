@@ -496,3 +496,164 @@ padding-left: 80px;
 .para:hover{
     color: rgb(211, 120, 0);
 }
+.promise{
+    padding-top: 30px;
+    display: flex;
+    width: 100%;
+    /* height: 70px; */
+}
+.pro-left{
+    padding-top: 40px;
+    width: 70%;
+    height: 70px;
+    display: flex;
+    gap: 20px;
+    background-color: rgb(243, 236, 236);
+
+    /* padding-bottom: 30px; */
+}
+.pro-right p{
+ font-size: larger;
+ font-weight: bold;
+}
+.pro-right{
+    margin-left: 10px;
+    padding-left: 80px;
+    background-color: rgb(243, 236, 236);
+    width: 30%;
+
+}
+
+.pro-left img{
+   width: 50px;
+   height: 50px;
+}
+.no{
+    padding-bottom: 30px;
+    font-size: small;
+    
+}
+.our{
+    padding-left: 20px;
+    text-transform: uppercase;
+  color: rgb(33, 32, 32);
+
+
+}
+.hey{
+    padding-left: 150px;
+}
+.hlo{
+    padding-left: 30px;
+}
+.second-last{
+    padding-top: 30px;
+    display: flex;
+}
+.s-lastleft{
+    display: flex;
+    gap: 130px;
+    width: 70%;
+}
+.s-lastleft h5{
+  color: rgb(33, 32, 32);
+  font-weight: bold;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.lastcard1{
+    padding-left: 20px;
+}
+.s-lastleft p{
+  color: rgb(33, 32, 32);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.folo{
+    padding-left: 200px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.la{
+    padding-left: 50px;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+.blo{
+    padding-left: 150px;
+    
+}
+.s-lastright button{
+    padding: 10px 50px ;
+}
+.s-lastright{
+    background-color: rgb(243, 236, 236);
+      width: 35%;
+}
+
+.s-lastright img{
+  background-color: rgb(33, 32, 32);
+  padding: 10px;
+  width: 30px;
+  height: 30px;
+  margin-left: 50px;
+
+}
+.last{
+    width: 1000px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    display: flex;
+    height: 150px;
+    
+}
+.sec{
+    padding-left: 10PX;
+    
+}
+.shine{
+    padding-top: 50px;
+    width: 50px;
+    height: 50px;
+   
+}
+.last p{
+    padding-top: 40px;
+    width: 200px;
+}
+.payment{
+    padding-top: 50px;
+
+    display: flex;
+    gap: 10PX;
+}
+.dec{
+    padding-left: 20px;
+}
+.buu{
+    padding-top: 50px;
+    padding-left: 30PX;
+
+}
+.buuu{
+    padding-top: 50px;
+}
+
+.map{
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+    border-top: none;
+    border-bottom: none;
+    height: 30px;
+    padding: 10px;
+
+}
+.countries{
+    border: 1px solid black;
+    /* padding: 10px; */
+    background-color: white;
+     height: 30px;
+    padding: 10px;
+}
+.res{
+    text-align: center;
+    font-size: small;
+}
